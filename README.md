@@ -2,5 +2,5 @@
 
 Assignments for the subject Scientific Computing (KU)
 
-#Contributors:
+Contributors:
  - Tomás Fernández Bouvier (@tomasfbouvier)
